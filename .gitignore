@@ -6,6 +6,9 @@
 .RData
 .RDataTmp
 
+# Rstudio projec file
+.Rproj
+
 # User-specific files
 .Rproj.user
 .Ruserdata
