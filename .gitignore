@@ -7,7 +7,7 @@
 .RDataTmp
 
 # Rstudio projec file
-.Rproj
+*.Rproj
 
 # User-specific files
 .Rproj.user
